@@ -1,0 +1,329 @@
+.filter-title {
+    font-weight: 500;
+    font-size: 14px;
+    color: #000000;
+}
+
+.reset-title {
+    font-weight: 500;
+    font-size: 16px;
+    color: #3884F7;
+}
+
+.range-title {
+    font-weight: 500;
+    font-size: 16px;
+    color: #000000;
+}
+
+.min-title {
+    font-weight: 400;
+    font-size: 12px;
+    color: #000000;
+}
+
+.max-title {
+    font-weight: 400;
+    font-size: 12px;
+    color: #000000;
+}
+
+.min-amount {
+    font-weight: 700;
+    font-size: 16px;
+}
+
+.max-amount {
+    font-weight: 700;
+    font-size: 16px;
+}
+
+.class-title {
+    font-weight: 500;
+    font-size: 16px;
+    color: #000000;
+}
+
+.ac-title {
+    font-weight: 400;
+    font-size: 16px;
+    color: #000000;
+}
+
+.ac-icon {
+    color: #757575;
+}
+
+.non-title {
+    font-weight: 400;
+    font-size: 16px;
+    color: #000000;
+}
+
+.schedule-title {
+    font-weight: 500;
+    font-size: 16px;
+    color: #000000;
+
+}
+
+.time-title {
+    font-weight: 500;
+    font-size: 14px;
+    color: #4C4C4C;
+
+}
+
+.time-icon {
+    background: #C4C4C4;
+    opacity: 0.5;
+    color: #C4C4C4;
+}
+
+.range-title {
+    font-weight: 500;
+    font-size: 16px;
+    color: #000000;
+}
+
+.range-bg {
+    border: 1px solid #F3F3F6;
+    border-radius: 3px;
+    padding: 10px 8px;
+}
+
+.range-box {
+    background: #FFFFFF;
+    border: 1px solid #F6F6F6;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+    border-radius: 6px;
+}
+
+.buses-title {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+}
+
+.bus-title {
+    font-weight: 400;
+    font-size: 14px;
+
+}
+
+.bus-title:hover {}
+
+.bus-bg {
+
+    /* padding-right: 16px; */
+    color: #000000;
+    background: #FFFFFF;
+}
+
+.bus-bg:hover {
+    color: white !important;
+    background: #3884F7;
+}
+
+.bus-box {
+    /* display: flex; */
+    /* align-items: center; */
+    /* justify-content: space-between; */
+    border: 0
+}
+
+.seats-bg {
+    color: #4C4C4C
+}
+
+.seats-bg:hover {
+    color: white !important;
+}
+
+.ac-title {
+    font-weight: 600;
+    font-size: 16px;
+    color: #000000;
+}
+
+.enter-title {
+    /* padding: 5px, */
+    /* 16px; */
+    border: 0;
+    font-weight: 600;
+    font-size: 18px;
+    color: #000000;
+
+
+
+    background: #BBDDFF;
+    border-radius: 18px;
+}
+
+.ctg-title {
+    font-weight: 400;
+    font-size: 10px;
+    align-items: center;
+    text-align: center;
+
+    color: #4C4C4C;
+}
+
+.box-second {
+    display: flex;
+    /* align-items: center; */
+    justify-content: space-between;
+}
+
+.ticket-box {
+    background: #FFFFFF;
+    border: 1px solid #F6F6F6;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+
+}
+
+.aspic-bg {
+    /* background: #704B00; */
+    /* color: #704B00; */
+    border-radius: 30px;
+    background: linear-gradient(90deg, #FCD847 37%, #A47E1B 137%);
+
+
+}
+
+.count {
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.form-title {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+
+    color: #4C4C4C;
+}
+
+.district {
+    font-weight: 400;
+    font-size: 16px;
+    text-transform: uppercase;
+
+    color: #000000;
+}
+
+.mesage-titme {
+
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    color: #000000;
+}
+
+.counter-name {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+
+    color: #4C4C4C;
+}
+
+.date {
+    font-weight: 400;
+    font-size: 12px;
+    color: #4C4C4C;
+    margin: 0;
+}
+
+.seats-title {
+    font-weight: 500;
+    font-size: 14px;
+    color: #EF7E46;
+    /* text-align: center; */
+}
+
+.hour-title {
+    font-weight: 400;
+    font-size: 12px;
+    align-items: center;
+    text-align: center;
+
+    color: #4C4C4C;
+}
+
+.option-title {
+    font-weight: 400;
+    font-size: 15px;
+    color: #000000;
+
+}
+
+.per-title {
+    font-weight: 600;
+    font-size: 10px;
+    color: #000000;
+}
+
+.price-title {
+    font-weight: 600;
+    font-size: 24px;
+    color: #235FD8;
+}
+
+.price-second {
+    font-weight: 500;
+    font-size: 16px;
+    color: #1882FF;
+}
+
+.view-button {
+    background: #1882FF;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.12);
+    border-radius: 3px;
+    padding: 8px 16px;
+    color: #FFFFFF;
+    font-weight: 500;
+    font-size: 14px;
+}
+
+.cancel-title {
+    color: #1882FF;
+    font-weight: 500;
+    font-size: 14px;
+}
+
+.payment-system {
+    /* height: 210px; */
+    /* background: #E5F2FE; */
+}
+
+.seat-button {
+    align-items: center;
+    padding: 6px 25px;
+    gap: 10px;
+
+    /* width: 125px; */
+    height: 36px;
+
+    /* Primary/Main */
+
+    background: #1882FF;
+    border-radius: 3px;
+    border: 0;
+    color: #FFFFFF;
+    font-weight: 500;
+    font-size: 14px;
+
+}
+
+.policy-buton {
+    /* width: 282px; */
+    /* height: 394px; */
+
+    background: #FFFFFF;
+    border-radius: 3px;
+    /* border: 0; */
+    font-weight: 500;
+    font-size: 14px;
+    padding: 6px 25px;
+}
